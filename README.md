@@ -26,7 +26,3 @@ Pytorch implementation of **WUTON: a Warping U-net for a Virtual Try-On system**
 
 #### Dataset
 We have used Person Image along with it's apparel image scapred from zalando website. Along with Person-Apparel pair we have used the segmentation information and desnepose information of the person to train our model.
-
-#### Training
-`Python main.py`
-
